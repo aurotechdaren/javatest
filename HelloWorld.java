@@ -1,4 +1,5 @@
 // This is a comment
+// another comment
 public class HelloWorld
 {
 	public static void main (String [] args)
